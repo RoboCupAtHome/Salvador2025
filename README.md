@@ -5,19 +5,16 @@
 - [Scores](#scores)
 - [Schedule](#schedule)
     + [Arena OPL Mapping Slots](#arena-opl-mapping-slots)
-    + [Arena SSPL/OPL Mapping Slots](#arena-sspl-opl-mapping-slots)
     + [Arena DSPL Mapping Slots](#arena-dspl-mapping-slots)
 - [Arenas](#arenas)
     + [OPL Teams](#opl-teams)
     + [DSPL Teams](#dspl-teams)
-    + [SSPL Teams](#sspl-teams)
     + [Arena Map](#arena-map)
 - [Robot Inspection and Poster Session](#robot-inspection-and-poster-session)
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
     + [Storing Groceries](#storing-groceries)
     + [Carry my Luggage](#carry-my-luggage)
-    + [Serve Breakfast](#serve-breakfast)
     + [GPSR](#gpsr)
 - [Stage 2](#stage-2)
     + [Clean the Table](#clean-the-table)
@@ -463,9 +460,6 @@ Announce what will be used as cabinet
 
 ### Carry my Luggage
 ![](maps/stage_one/map_carry_my_luggage.png)
-
-### Serve Breakfast
-![](maps/stage_one/map_serve_breakfast.png)
 
 ### GPSR
 ![](maps/stage_one/map_gpsr.png)
