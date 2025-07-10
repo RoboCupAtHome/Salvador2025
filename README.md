@@ -47,11 +47,11 @@ DSPL
 |13:00| | Storing Groceries |  | | |
 |14:00| | Storing Groceries  |  | Give Me a Hand | |
 |15:00| | Storing Groceries  | Clean the Table | Give Me a Hand | |
-|16:00| Opening Ceremony (Conference Area P2A) | | Clean the Table | | |
+|16:00| Opening Ceremony | | Clean the Table | | Major Award Ceremony |
 |17:00| Poster / Robot Inspection | Help Me Carry | Clean the Table |  | |
-|18:00|  | Help Me Carry |  | EGPSR | |
-|19:00| Team-Leader Meeting| Help Me Carry |  | EGPSR | |
-|20:00| Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | |
+|18:00|  | Help Me Carry |  | EGPSR | Major Party |
+|19:00| Team-Leader Meeting| Help Me Carry |  | EGPSR | Major Party |
+|20:00| Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | Major Party |
 
 
 ### Robot Inspection (DSPL Arena)
