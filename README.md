@@ -42,7 +42,7 @@ DSPL
 |-----|------------|------------|------------|------------|------------|
 |09:00| Mapping    | Receptionist |  | Restaurant | |
 |10:00| Mapping    | Receptionist | GPSR | Restaurant | |
-|11:00| | Receptionist | GPSR | Restaurant | |
+|11:00| Mapping    | Receptionist | GPSR | Restaurant | |
 |12:00| | | GPSR | Restaurant | |
 |13:00| | Storing Groceries |  | | |
 |14:00| | Storing Groceries  |  | Give Me a Hand | |
@@ -109,10 +109,10 @@ DSPL
 
 | Team Name (DSPL) | Arena | Tue July 15 | Wed July 16 |
 |-----------|-------|------|----|
-| rUNSWeep  | DSPL | 20:00 | 09:00 |
-| RoboCanes-VISAGE   | DSPL | 20:20 | 09:20 |
-| Hibikino-Musashi@Home  | DSPL | 20:40 | 09:40 |
-| UT Austin Villa@Home   | DSPL | 21:00 | 10:00 |
+| rUNSWeep  | DSPL | 19:00 | 09:00 |
+| RoboCanes-VISAGE   | DSPL | 19:20 | 09:20 |
+| Hibikino-Musashi@Home  | DSPL | 19:40 | 09:40 |
+| UT Austin Villa@Home   | DSPL | 19:00 | 10:00 |
 
 
 ## Arenas
