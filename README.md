@@ -14,11 +14,11 @@
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
     + [Storing Groceries](#storing-groceries)
-    + [Carry my Luggage](#carry-my-luggage)
+    + [Help Me Carry](#help-me-carry)
     + [GPSR](#gpsr)
 - [Stage 2](#stage-2)
     + [Clean the Table](#clean-the-table)
-    + [Stickler for the Rules](#stickler-for-the-rules)
+    + [Give Me a Hand](#give-me-a-hand)
     + [EGPSR](#egpsr)
 
 ## Scores
@@ -167,7 +167,7 @@ Announce which table will be used
 
 Announce what will be used as cabinet
 
-### Carry my Luggage
+### Help Me Carry
 ![](maps/stage_one/map_carry_my_luggage.png)
 
 ### GPSR
@@ -178,7 +178,7 @@ Announce what will be used as cabinet
 ### Clean the Table
 ![](maps/stage_two/map_clean_the_table.png)
 
-### Stickler for the Rules
+### Give Me a Hand
 ![](maps/stage_two/map_stickler_for_the_rules.png)
 
 ### EGPSR
