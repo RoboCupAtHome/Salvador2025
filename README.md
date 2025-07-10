@@ -40,17 +40,17 @@ DSPL
 
 |     | Wed July 16 | Thu July 17 | Fri July 18 | Sat July 19 | Sun July 20 |
 |-----|------------|------------|------------|------------|------------|
-|09:00| Mapping    | Receptionist | GPSR | Restaurant | |
+|09:00| Mapping    | Receptionist |  | Restaurant | |
 |10:00| Mapping    | Receptionist | GPSR | Restaurant | |
 |11:00| | Receptionist | GPSR | Restaurant | |
-|12:00| | | | Restaurant | |
-|13:00| | Storing Groceries | Serve Breakfast | | |
-|14:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
-|15:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
-|16:00| Opening Ceremony (Conference Area P2A) | | | | |
-|17:00| Poster / Robot Inspection | Carry my luggage | Clean the Table |  | |
-|18:00|  | Carry my luggage | Clean the Table | EGPSR | |
-|19:00| Team-Leader Meeting| Carry my luggage |  | EGPSR | |
+|12:00| | | GPSR | Restaurant | |
+|13:00| | Storing Groceries |  | | |
+|14:00| | Storing Groceries  |  | Give Me a Hand | |
+|15:00| | Storing Groceries  | Clean the Table | Give Me a Hand | |
+|16:00| Opening Ceremony (Conference Area P2A) | | Clean the Table | | |
+|17:00| Poster / Robot Inspection | Help Me Carry | Clean the Table |  | |
+|18:00|  | Help Me Carry |  | EGPSR | |
+|19:00| Team-Leader Meeting| Help Me Carry |  | EGPSR | |
 |20:00| Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | |
 
 
@@ -81,7 +81,7 @@ DSPL
 | 1                 | UT Austin Villa@Home   | DSPL   |
 | 2                 | Hibikino-Musashi@Home  | DSPL   |
 | 3                 | RoboCanes-VISAGE       | DSPL   |
-| 4                 | RUNSWEEP               | DSPL   |
+| 4                 | rUNSWeep               | DSPL   |
 
 
 
@@ -109,8 +109,8 @@ DSPL
 
 | Team Name (DSPL) | Arena | Tue July 15 | Wed July 16 |
 |-----------|-------|------|----|
-| RoboCanes-VISAGE  | DSPL | 20:00 | 09:00 |
-| RUNSWEEP   | DSPL | 20:20 | 09:20 |
+| rUNSWeep  | DSPL | 20:00 | 09:00 |
+| RoboCanes-VISAGE   | DSPL | 20:20 | 09:20 |
 | Hibikino-Musashi@Home  | DSPL | 20:40 | 09:40 |
 | UT Austin Villa@Home   | DSPL | 21:00 | 10:00 |
 
