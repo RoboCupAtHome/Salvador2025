@@ -29,6 +29,7 @@
 :-------------------------:|:-------------------------:
 | apple | ![](known_objects/fruits!fruit/apple.jpg) |
 | lemon | ![](known_objects/fruits!fruit/lemon.jpg) |
+| lime | ![](known_objects/fruits!fruit/lime.jpg) |
 | tangerine | ![](known_objects/fruits!fruit/tangerine.jpg) |
 | pear | ![](known_objects/fruits!fruit/pear.jpg) |
 
