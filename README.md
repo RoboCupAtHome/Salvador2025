@@ -152,6 +152,7 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 - [Location names](maps/location_names.md)
 - [Object List](objects/objects.md)
 - [Additional Objects](objects/test_objects.md)
+- [Names](names/names.md)
 - Wifi 
     * ARENA_OPL_5G  PW: ```arenaopl```
     * ARENA_DSPL_5G PW: ```arenadspl```
