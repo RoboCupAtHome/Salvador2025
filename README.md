@@ -89,30 +89,30 @@ DSPL
 
 | Team Name (OPL) | Arena | Tue July 15 | Wed July 16 |
 |--------------------|--------|--------------|--------------|
-| NimbRo@Home        | OPL    | 19:00        | 09:00        |
-| RoBorregos         | OPL    | 19:10        | 09:10        |
-| LASR               | OPL    | 19:20        | 09:20        |
-| RoboFEI@Home       | OPL    | 19:30        | 09:30        |
-| FBOT@Home          | OPL    | 19:40        | 09:40        |
-| Tinker             | OPL    | 19:50        | 09:50        |
-| FAMBOT             | OPL    | 20:00        | 10:00        |
-| UTBots             | OPL    | 20:10        | 10:10        |
-| BahiaRT            | OPL    | 20:20        | 10:20        |
-| PMEC@HOME          | OPL    | 20:30        | 10:30        |
-| PyLoT Robotics     | OPL    | 20:40        | 10:40        |
-| Tidyboy-OPL        | OPL    | 20:50        | 10:50        |
-| PUMAS              | OPL    | 21:00        | 11:00        |
-| Andesrobot Team    | OPL    | 21:10        | 11:10        |
+| NimbRo@Home        | OPL    | 17:00        | tbd        |
+| RoBorregos         | OPL    | 17:10        | tbd        |
+| LASR               | OPL    | 17:20        | tbd        |
+| RoboFEI@Home       | OPL    | 17:30        | tbd        |
+| FBOT@Home          | OPL    | 17:40        | tbd        |
+| Tinker             | OPL    | 17:50        | tbd        |
+| FAMBOT             | OPL    | 18:00        | tbd        |
+| UTBots             | OPL    | 18:10        | tbd        |
+| BahiaRT            | OPL    | 18:20        | tbd        |
+| PMEC@HOME          | OPL    | 18:30        | tbd        |
+| PyLoT Robotics     | OPL    | 18:40        | tbd        |
+| Tidyboy-OPL        | OPL    | 18:50        | tbd        |
+| PUMAS              | OPL    | 19:00        | tbd        |
+| Andesrobot Team    | OPL    | 19:10        | tbd        |
 
 
 ### Arena DSPL Mapping Slots
 
 | Team Name (DSPL) | Arena | Tue July 15 | Wed July 16 |
 |-----------|-------|------|----|
-| rUNSWeep  | DSPL | 19:00 | 09:00 |
-| RoboCanes-VISAGE   | DSPL | 19:20 | 09:20 |
-| Hibikino-Musashi@Home  | DSPL | 19:40 | 09:40 |
-| UT Austin Villa@Home   | DSPL | 19:00 | 10:00 |
+| rUNSWeep              | DSPL | 17:00 | tbd |
+| RoboCanes-VISAGE      | DSPL | 17:30 | tbd |
+| Hibikino-Musashi@Home | DSPL | 18:00 | tbd |
+| UT Austin Villa@Home  | DSPL | 18:30 | tbd |
 
 
 ## Arenas
