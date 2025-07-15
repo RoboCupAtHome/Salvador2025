@@ -38,20 +38,20 @@ DSPL
 
 ## Schedule
 
-|     | Wed July 16 | Thu July 17 | Fri July 18 | Sat July 19 | Sun July 20 |
-|-----|------------|------------|------------|------------|------------|
-|09:00| Mapping    | Receptionist |  | Restaurant | |
-|10:00| Mapping    | Receptionist | GPSR | Restaurant | |
-|11:00| Mapping    | Receptionist | GPSR | Restaurant | |
-|12:00| | | GPSR | Restaurant | |
-|13:00| | Storing Groceries |  | | |
-|14:00| | Storing Groceries  |  | Give Me a Hand | |
-|15:00| | Storing Groceries  | Clean the Table | Give Me a Hand | |
-|16:00| Opening Ceremony | | Clean the Table | | Major Award Ceremony |
-|17:00| Poster / Robot Inspection | Help Me Carry | Clean the Table |  | |
-|18:00|  | Help Me Carry |  | EGPSR | Major Party |
-|19:00| Team-Leader Meeting| Help Me Carry |  | EGPSR | Major Party |
-|20:00| Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | Major Party |
+|     | Tue July 15 | Wed July 16 | Thu July 17 | Fri July 18 | Sat July 19 | Sun July 20 |
+|-----|------------|------------|------------|------------|------------|------------|
+|09:00| |    | Receptionist |  | Restaurant | |
+|10:00| |   | Receptionist | GPSR | Restaurant | |
+|11:00| |   | Receptionist | GPSR | Restaurant | |
+|12:00| | | | GPSR | Restaurant | |
+|13:00| | |  |  | | |
+|14:00| | |   |  | Give Me a Hand | |
+|15:00| Team Leader Meeting | |   | Clean the Table | Give Me a Hand |  |
+|16:00| | Opening Ceremony | | Clean the Table | | Major Award Ceremony |
+|17:00| Mapping | Poster / Robot Inspection | Storing Groceries | Clean the Table |  | |
+|18:00| Mapping | | Storing Groceries |  | EGPSR | Major Party |
+|19:00| Mapping | Team-Leader Meeting | Storing Groceries |  | EGPSR | Major Party |
+|20:00| | Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | Major Party |
 
 
 ### Robot Inspection (DSPL Arena)
