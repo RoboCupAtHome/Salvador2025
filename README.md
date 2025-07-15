@@ -10,6 +10,7 @@
     + [OPL Teams](#opl-teams)
     + [DSPL Teams](#dspl-teams)
     + [Arena Map](#arena-map)
+- [Additional Information](#information)
 - [Robot Inspection and Poster Session](#robot-inspection-and-poster-session)
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
@@ -144,7 +145,12 @@ DSPL
 | 3  | UT Austin Villa@Home (The University of Texas at Austin, USA)                                | DSPL    |
 | 4  | rUNSWeep (UNSW Sydney, Australia)                                                             | DSPL    |
 
+## Information
 
+- [Arena map](maps/arena.png)
+- [Location names](maps/location_names.md)
+- [Object List](objects/objects.md)
+- [Additional Objects](objects/test_objects.md)
 
 
 ## Robot Inspection and Poster Session
