@@ -5,6 +5,4 @@
 | kitchen | 
 | office | 
 | living room | 
-| bathroom | 
-
 
