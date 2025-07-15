@@ -6,8 +6,8 @@
 | tuna | ![](known_objects/foods!food/tuna.jpg) |
 | ketchup | ![](known_objects/foods!food/ketchup.jpg) |
 | oats | ![](known_objects/foods!food/oats.jpg) |
+| corn_flour | ![](known_objects/foods!food/corn_flour.jpg) |
 | broth | ![](known_objects/foods!food/broth.jpg) |
-| corn_flower | ![](known_objects/foods!food/corn_flower.jpg) |
 
 
 # Class snacks!snack (snacks!snack)
