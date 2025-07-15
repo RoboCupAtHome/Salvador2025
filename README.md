@@ -178,8 +178,6 @@ Announce which table will be used
 Announce what will be used as cabinet
 
 ### Help Me Carry
-![](maps/stage_one/map_carry_my_luggage.png)
-
 ### GPSR
 ![](maps/stage_one/map_gpsr.png)
 
@@ -192,6 +190,6 @@ Announce what will be used as cabinet
 ![](maps/stage_two/map_stickler_for_the_rules.png)
 
 ### EGPSR
-![](maps/stage_two/map_egpsr.png)
+
 
 
