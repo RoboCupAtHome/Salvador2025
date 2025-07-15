@@ -40,17 +40,17 @@ DSPL
 
 |     | Tue July 15 | Wed July 16 | Thu July 17 | Fri July 18 | Sat July 19 | Sun July 20 |
 |-----|------------|------------|------------|------------|------------|------------|
-|09:00| |    | Receptionist |  | Restaurant | |
+|09:00| |    |  | GPSR  | Restaurant | |
 |10:00| |   | Receptionist | GPSR | Restaurant | |
 |11:00| |   | Receptionist | GPSR | Restaurant | |
-|12:00| | | | GPSR | Restaurant | |
-|13:00| | |  |  | | |
-|14:00| | |   |  | Give Me a Hand | |
-|15:00| Team Leader Meeting | |   | Clean the Table | Give Me a Hand |  |
-|16:00| | Opening Ceremony | | Clean the Table | | Major Award Ceremony |
-|17:00| Mapping | Poster / Robot Inspection | Storing Groceries | Clean the Table |  | |
-|18:00| Mapping | | Storing Groceries |  | EGPSR | Major Party |
-|19:00| Mapping | Team-Leader Meeting | Storing Groceries |  | EGPSR | Major Party |
+|12:00| | | Receptionist | | Restaurant | Finals |
+|13:00| | |  | Help me Carry | | Finals |
+|14:00| | |   | Help me Carry  | Give Me a Hand | |
+|15:00| Team Leader Meeting | |   | Help me Carry | Give Me a Hand |  |
+|16:00| | Opening Ceremony | |  | | Major Award Ceremony |
+|17:00| Mapping | Poster / Robot Inspection | Storing Groceries | Clean the Table | EGPSR  | |
+|18:00| Mapping | | Storing Groceries | Clean the Table | EGPSR | Major Party |
+|19:00| Mapping | Team-Leader Meeting | Storing Groceries | Clean the Table | EGPSR | Major Party |
 |20:00| | Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | Major Party |
 
 
