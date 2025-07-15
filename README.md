@@ -54,6 +54,7 @@ DSPL
 |19:00| Mapping | Team-Leader Meeting | Storing Groceries | Clean the Table | EGPSR | Major Party |
 |20:00| | Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | Major Party |
 
+Team Leader Meetings inside OPL Arena. Bring your own chair.
 
 ### Robot Inspection (DSPL Arena)
 
