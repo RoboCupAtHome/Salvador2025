@@ -156,7 +156,7 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 - Wifi 
     * ARENA_OPL_5G  PW: ```arenaopl```
     * ARENA_DSPL_5G PW: ```arenadspl```
-- Telegram Group for quick communications: https://t.me/+jKtw-HYUEiVhODJi
+- [Telegram Group for quick communications](https://t.me/+jKtw-HYUEiVhODJi)
 
 
 ## Robot Inspection and Poster Session
