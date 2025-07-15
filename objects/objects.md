@@ -1,81 +1,69 @@
-# Class drinks (drink)
+# Class snacks (snack)
 
 | Objectname               |  Image                   |
-|:-------------------------:|:-------------------------:|
-| orange_juice  |  ![](known_objects/drinks/orange_juice.jpg) |
-| red_wine  |  ![](known_objects/drinks/red_wine.jpg) |
-| milk  |  ![](known_objects/drinks/milk.jpg) |
-| iced_tea  |  ![](known_objects/drinks/iced_tea.jpg) |
-| cola  |  ![](known_objects/drinks/cola.jpg) |
-| tropical_juice  |  ![](known_objects/drinks/tropical_juice.jpg) |
-| juice_pack  |  ![](known_objects/drinks/juice_pack.jpg) |
+:-------------------------:|:-------------------------:
+| peanuts | ![](known_objects/snacks#snack/peanuts.jpg) |
+| cornflakes | ![](known_objects/snacks#snack/cornflakes.jpg) |
+| crisps | ![](known_objects/snacks#snack/crisps.jpg) |
+| pringles | ![](known_objects/snacks#snack/pringles.jpg) |
+| cheese_snack | ![](known_objects/snacks#snack/cheese_snack.jpg) |
+| chocolate_bar | ![](known_objects/snacks#snack/chocolate_bar.jpg) |
+| 2025-07-14-132216 | ![](known_objects/snacks#snack/2025-07-14-132216.jpg) |
 
 
 # Class fruits (fruit)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| apple  |  ![](known_objects/fruits/apple.png) |
-| pear  |  ![](known_objects/fruits/pear.png) |
-| lemon  |  ![](known_objects/fruits/lemon.png) |
-| peach  |  ![](known_objects/fruits/peach.png) |
-| banana  |  ![](known_objects/fruits/banana.png) |
-| strawberry  |  ![](known_objects/fruits/strawberry.png) |
-| orange  |  ![](known_objects/fruits/orange.png) |
-| plum  |  ![](known_objects/fruits/plum.png) |
-
-
-# Class snacks (snack)
-
-| Objectname               |  Image                   |
-:-------------------------:|:-------------------------:
-| cheezit  |  ![](known_objects/snacks/cheezit.png) |
-| cornflakes  |  ![](known_objects/snacks/cornflakes.jpg) |
-| pringles  |  ![](known_objects/snacks/pringles.png) |
-
-
-# Class foods (food) 
-
-| Objectname               |  Image                   |
-:-------------------------:|:-------------------------:
-| tuna  |  ![](known_objects/food/tuna.png) |
-| sugar  |  ![](known_objects/food/sugar.png) |
-| strawberry_jello  |  ![](known_objects/food/strawberry_jello.png) |
-| tomato_soup  |  ![](known_objects/food/tomato_soup.png) |
-| mustard  |  ![](known_objects/food/mustard.png) |
-| chocolate_jello  |  ![](known_objects/food/chocolate_jello.png) |
-| spam  |  ![](known_objects/food/spam.png) |
-| coffee_grounds  |  ![](known_objects/food/coffee_grounds.png) |
-
-
-# Class dishes (dish)
-
-| Objectname               |  Image                   |
-:-------------------------:|:-------------------------:
-| plate  |  ![](known_objects/dishes/plate.png) |
-| fork  |  ![](known_objects/dishes/fork.png) |
-| spoon  |  ![](known_objects/dishes/spoon.png) |
-| cup  |  ![](known_objects/dishes/cup.png) |
-| knife  |  ![](known_objects/dishes/knife.png) |
-| bowl  |  ![](known_objects/dishes/bowl.png) |
-
-
-# Class toys (toy)
-
-| Objectname               |  Image                   |
-:-------------------------:|:-------------------------:
-| rubiks_cube  |  ![](known_objects/toys/rubiks_cube.png) |
-| soccer_ball  |  ![](known_objects/toys/soccer_ball.jpg) |
-| dice  |  ![](known_objects/toys/dice.png) |
-| tennis_ball  |  ![](known_objects/toys/tennis_ball.png) |
-| baseball  |  ![](known_objects/toys/baseball.png) |
+| apple | ![](known_objects/fruits#fruit/apple.jpg) |
+| lemon | ![](known_objects/fruits#fruit/lemon.jpg) |
+| tangerine | ![](known_objects/fruits#fruit/tangerine.jpg) |
+| pear | ![](known_objects/fruits#fruit/pear.jpg) |
 
 
 # Class cleaning_supplies (cleaning_supply)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| cleanser  |  ![](known_objects/cleaning_supplies/cleanser.png) |
-| sponge  |  ![](known_objects/cleaning_supplies/sponge.jpg) |
+| cloth | ![](known_objects/cleaning_supplies#cleaning_supply/cloth.jpg) |
+| polish | ![](known_objects/cleaning_supplies#cleaning_supply/polish.jpg) |
+| brush | ![](known_objects/cleaning_supplies#cleaning_supply/brush.jpg) |
+| sponge | ![](known_objects/cleaning_supplies#cleaning_supply/sponge.jpg) |
+
+
+# Class drinks (drink)
+
+| Objectname               |  Image                   |
+:-------------------------:|:-------------------------:
+| coffee | ![](known_objects/drinks#drink/coffee.jpg) |
+| kuat | ![](known_objects/drinks#drink/kuat.jpg) |
+| milk | ![](known_objects/drinks#drink/milk.jpg) |
+| orange_juice | ![](known_objects/drinks#drink/orange_juice.jpg) |
+| fanta | ![](known_objects/drinks#drink/fanta.jpg) |
+| coke | ![](known_objects/drinks#drink/coke.jpg) |
+
+
+# Class foods (food)
+
+| Objectname               |  Image                   |
+:-------------------------:|:-------------------------:
+| mayo | ![](known_objects/foods#food/mayo.jpg) |
+| tuna | ![](known_objects/foods#food/tuna.jpg) |
+| ketchup | ![](known_objects/foods#food/ketchup.jpg) |
+| oats | ![](known_objects/foods#food/oats.jpg) |
+| broth | ![](known_objects/foods#food/broth.jpg) |
+| corn_flower | ![](known_objects/foods#food/corn_flower.jpg) |
+
+
+# Class dishes (dish)
+
+| Objectname               |  Image                   |
+:-------------------------:|:-------------------------:
+| spoon | ![](known_objects/dishes#dish/spoon.png) |
+| plate | ![](known_objects/dishes#dish/plate.png) |
+| cup | ![](known_objects/dishes#dish/cup.png) |
+| fork | ![](known_objects/dishes#dish/fork.png) |
+| bowl | ![](known_objects/dishes#dish/bowl.png) |
+| knife | ![](known_objects/dishes#dish/knife.png) |
 
 
