@@ -56,7 +56,7 @@ DSPL
 
 Team Leader Meetings inside OPL Arena. Bring your own chair.
 
-### Robot Inspection (DSPL Arena)
+### Robot Inspection (OPL Arena)
 
 | Wed July 16 17:00 | Team Name        | League |
 |-------------------|------------------|--------|
