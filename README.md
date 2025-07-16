@@ -24,18 +24,40 @@
 
 ## Scores
 
-Team rankings and total scores from stage 1 and stage 2
+Team rankings and total scores
 
-OPL
+### OPL
 
-|    | Team Name (ranking)                   | Total scores (stage 1 and 2) |
-| -- | ------------------------------------- | ---------------------------- |
+|      Team       | Total Score |
+| --------------- | ----------: |
+| Tinker          |           0 |
+| NimbRo@Home     |           0 |
+| FBOT@Home       |           0 |
+| BahiaRT         |           0 |
+| RoBorregos      |           0 |
+| LASR            |           0 |
+| FAMBOT          |           0 |
+| PMEC@HOME       |           0 |
+| Andesrobot Team |           0 |
+| PyLoT Robotics  |           0 |
+| PUMAS           |           0 |
+| RoboFEI@Home    |           0 |
+| Tidyboy-OPL     |           0 |
+| UTBots          |           0 |
 
-DSPL
+Individual Task scores can be found [here](scores_opl.md)
 
-|    | Team name (ranking)   | Total score (stage 1 and 2) |
-| -- | --------------------- | --------------------------- |
+### DSPL
 
+|         Team          | Total Score |
+| --------------------- | ----------: |
+| UT Austin Villa@Home  |           0 |
+| RoboCanes-VISAGE      |           0 |
+| Hibikino-Musashi@Home |           0 |
+| rUNSWeep              |           0 |
+
+
+Individual Task scores can be found [here](scores_dspl.md)
 
 ## Schedule
 
