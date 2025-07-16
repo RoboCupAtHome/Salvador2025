@@ -193,15 +193,15 @@ The Poster Session will be held next to the OPL arena.
 ### Receptionist
 ![](maps/stage_one/map_receptionist.png)
 
-Announce host's favorite drink
-Announce host's name
+Host's name: Antonio
+Host's favourite drink: Fanta
+Host's interest: Rugby
 
 ### Storing Groceries
 ![](maps/stage_one/map_storing_groceries.png)
 
-Announce which table will be used
-
-Announce what will be used as cabinet
+The tv stand (15) will be used as table
+The cabinet (16) will be used as cabinet
 
 ### Help Me Carry
 ### GPSR
