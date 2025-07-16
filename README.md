@@ -41,13 +41,13 @@ DSPL
 
 |     | Tue July 15 | Wed July 16 | Thu July 17 | Fri July 18 | Sat July 19 | Sun July 20 |
 |-----|------------|------------|------------|------------|------------|------------|
-|09:00| |    |  | GPSR  | Restaurant | |
-|10:00| |   | Receptionist | GPSR | Restaurant | |
-|11:00| |   | Receptionist | GPSR | Restaurant | |
-|12:00| | | Receptionist | | Restaurant | Finals |
-|13:00| | |  | Help me Carry | | Finals |
-|14:00| | |   | Help me Carry  | Give Me a Hand | |
-|15:00| Team Leader Meeting | |   | Help me Carry | Give Me a Hand |  |
+|09:00| | Mapping   |  | GPSR  | Restaurant | |
+|10:00| | Mapping  |  | GPSR | Restaurant | |
+|11:00| | Mapping  |  | GPSR | Restaurant | |
+|12:00| | |  | | Restaurant | Finals |
+|13:00| | | Receptionist | Help me Carry | | Finals |
+|14:00| | | Receptionist  | Help me Carry  | Give Me a Hand | |
+|15:00| Team Leader Meeting | | Receptionist  | Help me Carry | Give Me a Hand |  |
 |16:00| | Opening Ceremony | |  | | Major Award Ceremony |
 |17:00| Mapping | Poster / Robot Inspection | Storing Groceries | Clean the Table | EGPSR  | |
 |18:00| Mapping | | Storing Groceries | Clean the Table | EGPSR | Major Party |
@@ -91,30 +91,30 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 
 | Team Name (OPL) | Arena | Tue July 15 | Wed July 16 |
 |--------------------|--------|--------------|--------------|
-| NimbRo@Home        | OPL    | 17:00        | tbd        |
-| RoBorregos         | OPL    | 17:10        | tbd        |
-| LASR               | OPL    | 17:20        | tbd        |
-| RoboFEI@Home       | OPL    | 17:30        | tbd        |
-| FBOT@Home          | OPL    | 17:40        | tbd        |
-| Tinker             | OPL    | 17:50        | tbd        |
-| FAMBOT             | OPL    | 18:00        | tbd        |
-| UTBots             | OPL    | 18:10        | tbd        |
-| BahiaRT            | OPL    | 18:20        | tbd        |
-| PMEC@HOME          | OPL    | 18:30        | tbd        |
-| PyLoT Robotics     | OPL    | 18:40        | tbd        |
-| Tidyboy-OPL        | OPL    | 18:50        | tbd        |
-| PUMAS              | OPL    | 19:00        | tbd        |
-| Andesrobot Team    | OPL    | 19:10        | tbd        |
+| NimbRo@Home        | OPL    | 17:00        | 11:10        |
+| RoBorregos         | OPL    | 17:10        | 11:00        |
+| LASR               | OPL    | 17:20        | 10:50        |
+| RoboFEI@Home       | OPL    | 17:30        | 10:40        |
+| FBOT@Home          | OPL    | 17:40        | 10:30        |
+| Tinker             | OPL    | 17:50        | 10:20        |
+| FAMBOT             | OPL    | 18:00        | 10:10        |
+| UTBots             | OPL    | 18:10        | 10:00        |
+| BahiaRT            | OPL    | 18:20        | 09:50        |
+| PMEC@HOME          | OPL    | 18:30        | 09:40        |
+| PyLoT Robotics     | OPL    | 18:40        | 09:30        |
+| Tidyboy-OPL        | OPL    | 18:50        | 09:20        |
+| PUMAS              | OPL    | 19:00        | 09:10        |
+| Andesrobot Team    | OPL    | 19:10        | 09:00        |
 
 
 ### Arena DSPL Mapping Slots
 
 | Team Name (DSPL) | Arena | Tue July 15 | Wed July 16 |
 |-----------|-------|------|----|
-| rUNSWeep              | DSPL | 17:00 | tbd |
-| RoboCanes-VISAGE      | DSPL | 17:30 | tbd |
-| Hibikino-Musashi@Home | DSPL | 18:00 | tbd |
-| UT Austin Villa@Home  | DSPL | 18:30 | tbd |
+| rUNSWeep              | DSPL | 17:00 | 10:30 |
+| RoboCanes-VISAGE      | DSPL | 17:30 | 10:00 |
+| Hibikino-Musashi@Home | DSPL | 18:00 | 09:30 |
+| UT Austin Villa@Home  | DSPL | 18:30 | 09:00 |
 
 
 ## Arenas
