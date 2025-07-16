@@ -162,7 +162,9 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 ## Robot Inspection and Poster Session
 ![](maps/map_robot_inspection.png)
 
-Announce location for Poster.
+The Poster Session will be held next to the OPL arena. 
+
+![](maps/poster_location.png)
 
 ## Stage 1
 
