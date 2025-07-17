@@ -51,11 +51,10 @@ Individual Task scores can be found [here](scores_opl.md)
 
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| RoboCanes-VISAGE      |         455 |
-| Hibikino-Musashi@Home |         379 |
-| UT Austin Villa@Home  |         365 |
+| Hibikino-Musashi@Home |         859 |
+| RoboCanes-VISAGE      |         795 |
+| UT Austin Villa@Home  |         610 |
 | rUNSWeep              |          40 |
-
 
 Individual Task scores can be found [here](scores_dspl.md)
 
