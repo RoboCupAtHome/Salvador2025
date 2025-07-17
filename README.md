@@ -260,6 +260,8 @@ The cabinet (16) will be used as cabinet
 
 ### Help Me Carry
 ### GPSR
+
+[Quiz Questions](questions.md)
 ![](maps/stage_one/map_gpsr.png)
 
 ## Stage 2
