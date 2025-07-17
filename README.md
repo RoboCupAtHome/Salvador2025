@@ -30,20 +30,20 @@ Team rankings and total scores
 
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tinker          |           0 |
-| NimbRo@Home     |           0 |
-| FBOT@Home       |           0 |
-| BahiaRT         |           0 |
-| RoBorregos      |           0 |
-| LASR            |           0 |
-| FAMBOT          |           0 |
-| PMEC@HOME       |           0 |
-| Andesrobot Team |           0 |
-| PyLoT Robotics  |           0 |
-| PUMAS           |           0 |
-| RoboFEI@Home    |           0 |
-| Tidyboy-OPL     |           0 |
-| UTBots          |           0 |
+| Tidyboy-OPL     |         795 |
+| FBOT@Home       |         343 |
+| RoBorregos      |         318 |
+| LASR            |         237 |
+| Tinker          |         200 |
+| PyLoT Robotics  |         184 |
+| FAMBOT          |         143 |
+| NimbRo@Home     |          41 |
+| RoboFEI@Home    |          35 |
+| UTBots          |          32 |
+| Andesrobot Team |          29 |
+| BahiaRT         |          28 |
+| PMEC@HOME       |          26 |
+
 
 Individual Task scores can be found [here](scores_opl.md)
 
@@ -51,10 +51,10 @@ Individual Task scores can be found [here](scores_opl.md)
 
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| UT Austin Villa@Home  |           0 |
-| RoboCanes-VISAGE      |           0 |
-| Hibikino-Musashi@Home |           0 |
-| rUNSWeep              |           0 |
+| RoboCanes-VISAGE      |         455 |
+| Hibikino-Musashi@Home |         379 |
+| UT Austin Villa@Home  |         365 |
+| rUNSWeep              |          40 |
 
 
 Individual Task scores can be found [here](scores_dspl.md)
@@ -82,18 +82,15 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 
 | Thu July 17 17:00 | Team Name       | League |
 | ----------------- | --------------- | ------ |
-| 1                 | PyLoT Robotics  | OPL    |
-| 2                 | FBOT\@Home      | OPL    |
-| 3                 | RoboFEI\@Home   | OPL    |
-| 4                 | FAMBOT          | OPL    |
-| 5                 | PMEC\@HOME      | OPL    |
-| 6                 | BahiaRT         | OPL    |
-| 7                 | RoBorregos      | OPL    |
-| 8                 | Andesrobot Team | OPL    |
-| 9                 | LASR            | OPL    |
-| 10                | NimbRo\@Home    | OPL    |
-| 11                | Tinker          | OPL    |
-| 12                | Tidyboy-OPL     | OPL    |
+| 1                 | FBOT\@Home      | OPL    |
+| 2                 | RoboFEI\@Home   | OPL    |
+| 3                 | FAMBOT          | OPL    |
+| 4                 | PMEC\@HOME      | OPL    |
+| 5                 | BahiaRT         | OPL    |
+| 6                 | Andesrobot Team | OPL    |
+| 7                 | LASR            | OPL    |
+| 8                 | Tinker          | OPL    |
+| 9                 | Tidyboy-OPL     | OPL    |
 
 
 
@@ -135,6 +132,7 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 | 2                 | rUNSWeep                   | DSPL   |
 | 3                 | RoboCanes-VISAGE + PUMAS   | DSPL   |
 | 4                 | UT Austin Villa@Home       | DSPL   |
+
 
 
 ### Robot Inspection (OPL Arena)

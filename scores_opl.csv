@@ -1,15 +1,24 @@
 Stage,Task,Team,Score
-1,Poster Session,FAMBOT,0
-1,Poster Session,PUMAS,0
-1,Poster Session,LASR,0
-1,Poster Session,BahiaRT,0
-1,Poster Session,PMEC@HOME,0
-1,Poster Session,PyLoT Robotics,0
-1,Poster Session,NimbRo@Home,0
-1,Poster Session,RoboFEI@Home,0
-1,Poster Session,RoBorregos,0
-1,Poster Session,Tidyboy-OPL,0
-1,Poster Session,FBOT@Home,0
-1,Poster Session,UTBots,0
-1,Poster Session,Tinker,0
-1,Poster Session,Andesrobot Team,0
+1,Poster Session,FAMBOT,28
+1,Poster Session,LASR,37
+1,Poster Session,BahiaRT,28
+1,Poster Session,PMEC@HOME,26
+1,Poster Session,PyLoT Robotics,24
+1,Poster Session,NimbRo@Home,41
+1,Poster Session,RoboFEI@Home,35
+1,Poster Session,RoBorregos,33
+1,Poster Session,Tidyboy-OPL,35
+1,Poster Session,FBOT@Home,33
+1,Poster Session,UTBots,32
+1,Poster Session,Tinker,30
+1,Poster Session,Andesrobot Team,29
+1,Receptionist,FAMBOT,115
+1,Receptionist,LASR,200
+1,Receptionist,PMEC@HOME,0
+1,Receptionist,PyLoT Robotics,160
+1,Receptionist,RoboFEI@Home,0
+1,Receptionist,RoBorregos,285
+1,Receptionist,Tidyboy-OPL,760
+1,Receptionist,FBOT@Home,310
+1,Receptionist,UTBots,0
+1,Receptionist,Tinker,170
