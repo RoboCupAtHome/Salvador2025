@@ -30,20 +30,19 @@ Team rankings and total scores
 
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |         795 |
-| FBOT@Home       |         343 |
-| RoBorregos      |         318 |
-| LASR            |         237 |
+| Tidyboy-OPL     |        2035 |
+| FBOT@Home       |         403 |
+| LASR            |         357 |
+| RoBorregos      |         333 |
+| FAMBOT          |         298 |
 | Tinker          |         200 |
 | PyLoT Robotics  |         184 |
-| FAMBOT          |         143 |
 | NimbRo@Home     |          41 |
 | RoboFEI@Home    |          35 |
 | UTBots          |          32 |
 | Andesrobot Team |          29 |
 | BahiaRT         |          28 |
 | PMEC@HOME       |          26 |
-
 
 Individual Task scores can be found [here](scores_opl.md)
 
