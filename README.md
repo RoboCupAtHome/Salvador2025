@@ -91,7 +91,7 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 | 7                 | LASR            | OPL    |
 | 8                 | Tinker          | OPL    |
 | 9                 | Tidyboy-OPL     | OPL    |
-
+| 10                | RoBorregos      | OPL    |
 
 
 ### Store Groceries (DSPL Arena)
