@@ -78,6 +78,36 @@ Individual Task scores can be found [here](scores_dspl.md)
 
 Team Leader Meetings inside OPL Arena. Bring your own chair.
 
+### Store Groceries (OPL Arena)
+
+| Thu July 17 17:00 | Team Name       | League |
+| ----------------- | --------------- | ------ |
+| 1                 | PyLoT Robotics  | OPL    |
+| 2                 | FBOT\@Home      | OPL    |
+| 3                 | RoboFEI\@Home   | OPL    |
+| 4                 | FAMBOT          | OPL    |
+| 5                 | PMEC\@HOME      | OPL    |
+| 6                 | BahiaRT         | OPL    |
+| 7                 | UTBots          | OPL    |
+| 8                 | RoBorregos      | OPL    |
+| 9                 | Andesrobot Team | OPL    |
+| 10                | LASR            | OPL    |
+| 11                | NimbRo\@Home    | OPL    |
+| 12                | Tinker          | OPL    |
+| 13                | Tidyboy-OPL     | OPL    |
+
+
+
+### Store Groceries (DSPL Arena)
+
+| Thu July 17 17:00 | Team Name                  | League |
+|-------------------|----------------------------|--------|
+| 1                 | UT Austin Villa@Home       | DSPL   |
+| 2                 | Hibikino-Musashi@Home      | DSPL   |
+| 3                 | rUNSWeep                   | DSPL   |
+| 4                 | RoboCanes-VISAGE + PUMAS   | DSPL   |
+
+
 ### Receptionist (OPL Arena)
 
 | Thu July 17 13:00 | Team Name       | League |
