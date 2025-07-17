@@ -76,6 +76,57 @@ Individual Task scores can be found [here](scores_dspl.md)
 
 Team Leader Meetings inside OPL Arena. Bring your own chair.
 
+### GPSR (OPL Arena)
+
+| Thu July 18 9:00  | Team Name       | League |
+| ----------------- | --------------- | ------ |
+| 1                 | BahiaRT         | OPL    |
+| 2                 | PyLoT Robotics  | OPL    |
+| 3                 | PMEC\@HOME      | OPL    |
+| 4                 | RoboFEI\@Home   | OPL    |
+| 5                 | RoBorregos      | OPL    |
+| 6                 | FBOT\@Home      | OPL    |
+| 7                 | LASR            | OPL    |
+| 8                 | Andesrobot Team | OPL    |
+| 9                 | UTBots          | OPL    |
+| 10                | Tidyboy-OPL     | OPL    |
+| 11                | Tinker          | OPL    |
+| 12                | FAMBOT          | OPL    |
+| 13                | NimbRo\@Home    | OPL    |
+
+
+
+### GPSR (DSPL Arena)
+
+| Thu July 17 9:00 | Team Name                       | League |
+|-------------------|--------------------------------|--------|
+| 1                 | rUNSWeep                       | DSPL   |
+| 2                 | UT Austin Villa@Home           | DSPL   |
+| 3                 | Hibikino-Musashi@Home          | DSPL   |
+| 4                 | RoboCanes-VISAGE + PUMAS TID   | DSPL   |
+
+
+### Help Me Carry (Teams Area)
+
+| Thu July 17 13:00 | Team Name                    | League |
+| ----------------- | ---------------------------- | ------ |
+| 1                 | RoboCanes-VISAGE + PUMAS TID | DSPL   |
+| 2                 | BahiaRT                      | OPL    |
+| 3                 | FAMBOT                       | OPL    |
+| 4                 | PMEC\@HOME                   | OPL    |
+| 5                 | UT Austin Villa\@Home        | DSPL   |
+| 6                 | RoBorregos                   | OPL    |
+| 7                 | rUNSWeep                     | DSPL   |
+| 8                 | FBOT\@Home                   | OPL    |
+| 9                 | Tidyboy-OPL                  | OPL    |
+| 10                | RoboFEI\@Home                | OPL    |
+| 11                | LASR                         | OPL    |
+| 12                | Andesrobot Team              | OPL    |
+| 13                | Tinker                       | OPL    |
+| 14                | Hibikino-Musashi\@Home       | DSPL   |
+
+
+
 ### Store Groceries (OPL Arena)
 
 | Thu July 17 17:00 | Team Name       | League |
