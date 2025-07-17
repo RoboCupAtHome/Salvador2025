@@ -78,6 +78,36 @@ Individual Task scores can be found [here](scores_dspl.md)
 
 Team Leader Meetings inside OPL Arena. Bring your own chair.
 
+### Receptionist (OPL Arena)
+
+| Thu July 17 13:00 | Team Name       | League |
+| ----------------- | --------------- | ------ |
+| 1                 | Tidyboy-OPL     | OPL    |
+| 2                 | Andesrobot Team | OPL    |
+| 3                 | RoBorregos      | OPL    |
+| 4                 | NimbRo@Home     | OPL    |
+| 5                 | RoboFEI@Home    | OPL    |
+| 6                 | Tinker          | OPL    |
+| 7                 | PyLoT Robotics  | OPL    |
+| 8                 | UTBots          | OPL    |
+| 9                 | LASR            | OPL    |
+| 10                | BahiaRT         | OPL    |
+| 11                | FAMBOT          | OPL    |
+| 12                | FBOT@Home       | OPL    |
+| 13                | PMEC@HOME       | OPL    |
+
+
+
+### Receptionist (DSPL Arena)
+
+| Thu July 17 13:00 | Team Name                  | League |
+|-------------------|----------------------------|--------|
+| 1                 | Hibikino-Musashi@Home      | DSPL   |
+| 2                 | rUNSWeep                   | DSPL   |
+| 3                 | RoboCanes-VISAGE + PUMAS   | DSPL   |
+| 4                 | UT Austin Villa@Home       | DSPL   |
+
+
 ### Robot Inspection (OPL Arena)
 
 | Wed July 16 17:00 | Team Name        | League |
