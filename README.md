@@ -82,6 +82,18 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 
 ### Clean the Table (OPL Arena)
 
+| Thu July 17 17:00 | Team Name      | League |
+| ----------------- | -------------- | ------ |
+| 1                 | PyLoT Robotics | OPL    |
+| 2                 | NimbRo\@Home   | OPL    |
+| 3                 | Tinker         | OPL    |
+| 4                 | LASR           | OPL    |
+| 5                 | FBOT\@Home     | OPL    |
+| 6                 | Tidyboy-OPL    | OPL    |
+| 7                 | FAMBOT         | OPL    |
+| 8                 | RoBorregos     | OPL    |
+
+
 ### Clean the Table (DSPL Arena)
 
 | Thu July 17 17:00 | Team Name                      | League |
