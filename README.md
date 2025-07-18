@@ -253,20 +253,20 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 ### OPL Teams
 || Team Name (OPL) | Arena |
 |----|----------------------------------------------------------------------------------------|--------|
-| 1  | NimbRo@Home (University of Bonn, Germany)                                              | OPL    |
-| 2  | RoBorregos (Instituto Tecnologico y de Estudios Superiores de Monterrey, Mexico)      | OPL    |
-| 3  | LASR (King’s College London, United Kingdom)                                           | OPL    |
-| 4  | RoboFEI@Home (FEI University Center, Brazil)                                           | OPL    |
-| 5  | FBOT@Home (Universidade Federal do Rio Grande (FURG), Brazil)                          | OPL    |
-| 6  | Tinker (Tsinghua University, China)                                                    | OPL    |
-| 7  | FAMBOT (Macau Pui Ching Middle School, China)                                          | OPL    |
-| 8  | UTBots (Universidade Tecnológica Federal do Paraná, Brazil)                            | OPL    |
-| 9  | BahiaRT (University of the State of Bahia, Brazil)                                     | OPL    |
-| 10 | PMEC@HOME (Universidade Federal de Goiás, Brazil)                                      | OPL    |
-| 11 | PyLoT Robotics (Kaijo Junior and Senior High School, Japan)                            | OPL    |
-| 12 | Tidyboy-OPL (Pusan National University / Seoul National University, South Korea)       | OPL    |
-| 13 | PUMAS (UNAM/TID/Tamagawa University, Mexico/Japan)                                     | OPL    |
-| 14 | Andesrobot Team (UNAB Chile/USTA Colombia, Chile/Colombia)                             | OPL    |
+| 1  | RoBorregos (Instituto Tecnologico y de Estudios Superiores de Monterrey, Mexico)      | OPL    |
+| 2  | LASR (King’s College London, United Kingdom)                                           | OPL    |
+| 3  | RoboFEI@Home (FEI University Center, Brazil)                                           | OPL    |
+| 4  | FBOT@Home (Universidade Federal do Rio Grande (FURG), Brazil)                          | OPL    |
+| 5  | Tinker (Tsinghua University, China)                                                    | OPL    |
+| 6  | FAMBOT (Macau Pui Ching Middle School, China)                                          | OPL    |
+| 7  | UTBots (Universidade Tecnológica Federal do Paraná, Brazil)                            | OPL    |
+| 8  | BahiaRT (University of the State of Bahia, Brazil)                                     | OPL    |
+| 9 | PMEC@HOME (Universidade Federal de Goiás, Brazil)                                      | OPL    |
+| 10 | PyLoT Robotics (Kaijo Junior and Senior High School, Japan)                            | OPL    |
+| 11 | Tidyboy-OPL (Pusan National University / Seoul National University, South Korea)       | OPL    |
+| 12 | PUMAS (UNAM/TID/Tamagawa University, Mexico/Japan)                                     | OPL    |
+| 13 | Andesrobot Team (UNAB Chile/USTA Colombia, Chile/Colombia)                             | OPL    |
+| 14  | NimbRo@Home (University of Bonn, Germany)                                              | OPL    |
 
 
 ### DSPL Teams
