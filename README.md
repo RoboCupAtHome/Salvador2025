@@ -71,7 +71,7 @@ Individual Task scores can be found [here](scores_dspl.md)
 |12:00| | |  | |  | Finals |
 |13:00| | | Receptionist | Help me Carry | Give Me a Hand | Finals |
 |14:00| | | Receptionist  | Help me Carry  | Give Me a Hand | |
-|15:00| Team Leader Meeting | | Receptionist  | Help me Carry |  |  |
+|15:00| Team Leader Meeting | | Receptionist  | Help me Carry | 15:00 RoboCup All Leagues Photo |  |
 |16:00| | Opening Ceremony | |  | | Major Award Ceremony |
 |17:00| Mapping | Poster / Robot Inspection | Storing Groceries | Clean the Table | EGPSR  | |
 |18:00| Mapping | | Storing Groceries | Clean the Table | EGPSR | Major Party |
@@ -79,6 +79,65 @@ Individual Task scores can be found [here](scores_dspl.md)
 |20:00| | Reception (bring your own stuff) | Team-Leader Meeting |  | | Major Party |
 
 Team Leader Meetings inside OPL Arena. Bring your own chair.
+
+### Restaurant
+| Sat July 19 9:00 | Team Name                    | League |
+| ---------------- | ---------------------------- | ------ |
+| 1                | Hibikino-Musashi\@Home       | DSPL   |
+| 2                | Tinker                       | OPL    |
+| 3                | RoboCanes-VISAGE + PUMAS TID | DSPL   |
+| 4                | FBOT\@Home                   | OPL    |
+| 5                | PyLoT Robotics               | OPL    |
+| 6                | UT Austin Villa\@Home        | DSPL   |
+| 7                | RoBorregos                   | OPL    |
+| 8                | rUNSWeep                     | DSPL   |
+| 9                | LASR                         | OPL    |
+| 10               | FAMBOT                       | OPL    |
+| 11               | NimbRo\@Home                 | OPL    |
+| 12               | Tidyboy-OPL                  | OPL    |
+
+
+### Give Me a Hand
+| Sat July 19 13:00 | Team Name      | League |
+| ----------------- | -------------- | ------ |
+| 1                 | RoBorregos     | OPL    |
+| 2                 | Tidyboy-OPL    | OPL    |
+| 3                 | PyLoT Robotics | OPL    |
+| 4                 | FBOT\@Home     | OPL    |
+| 5                 | Tinker         | OPL    |
+| 6                 | FAMBOT         | OPL    |
+| 7                 | LASR           | OPL    |
+| 8                 | NimbRo\@Home   | OPL    |
+
+### Give Me a Hand
+| Sat July 19 13:00 | Team Name                    | League |
+| ----------------- | ---------------------------- | ------ |
+| 1                 | Hibikino-Musashi\@Home       | DSPL   |
+| 2                 | UT Austin Villa\@Home        | DSPL   |
+| 3                 | rUNSWeep                     | DSPL   |
+| 4                 | RoboCanes-VISAGE + PUMAS TID | DSPL   |
+
+
+### EGPSR
+| Sat July 19 17:00 | Team Name      | League |
+| ----------------- | -------------- | ------ |
+| 1                 | Tinker         | OPL    |
+| 2                 | FBOT\@Home     | OPL    |
+| 3                 | RoBorregos     | OPL    |
+| 4                 | NimbRo\@Home   | OPL    |
+| 5                 | PyLoT Robotics | OPL    |
+| 6                 | LASR           | OPL    |
+| 7                 | Tidyboy-OPL    | OPL    |
+| 8                 | FAMBOT         | OPL    |
+
+### EGPSR
+| Sat July 19 17:00 | Team Name                    | League |
+| ----------------- | ---------------------------- | ------ |
+| 1                 | rUNSWeep                     | DSPL   |
+| 2                 | RoboCanes-VISAGE + PUMAS TID | DSPL   |
+| 3                 | Hibikino-Musashi\@Home       | DSPL   |
+| 4                 | UT Austin Villa\@Home        | DSPL   |
+
 
 ### Clean the Table (OPL Arena)
 
