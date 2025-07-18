@@ -124,6 +124,9 @@ Team Leader Meetings inside OPL Arena. Bring your own chair.
 | 12                | Andesrobot Team              | OPL    |
 | 13                | Tinker                       | OPL    |
 | 14                | Hibikino-Musashi\@Home       | DSPL   |
+| 15                | PyLoT Robotics               | OPL    |
+| 16                | UTBots                       | OPL    |
+| 17                | NimbRo@Home                  | OPL    |
 
 
 
