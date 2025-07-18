@@ -1,11 +1,11 @@
 # Current Total Scores
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        2035 |
-| FBOT@Home       |         403 |
-| LASR            |         357 |
-| RoBorregos      |         333 |
-| FAMBOT          |         298 |
+| Tidyboy-OPL     |        2600 |
+| FAMBOT          |         793 |
+| FBOT@Home       |         468 |
+| LASR            |         422 |
+| RoBorregos      |         398 |
 | Tinker          |         200 |
 | PyLoT Robotics  |         184 |
 | NimbRo@Home     |          41 |
@@ -14,6 +14,17 @@
 | Andesrobot Team |          29 |
 | BahiaRT         |          28 |
 | PMEC@HOME       |          26 |
+
+# GPSR
+|     Team     | Score |
+| ------------ | ----: |
+| Tidyboy-OPL  |   565 |
+| FAMBOT       |   495 |
+| LASR         |    65 |
+| FBOT@Home    |    65 |
+| RoBorregos   |    65 |
+| RoboFEI@Home |     0 |
+| Tinker       |     0 |
 
 # Storing Groceries
 |     Team     | Score |
@@ -40,6 +51,7 @@
 | PMEC@HOME      |     0 |
 | RoboFEI@Home   |     0 |
 | UTBots         |     0 |
+| NimbRo@Home    |     0 |
 
 # Poster Session
 |      Team       | Score |

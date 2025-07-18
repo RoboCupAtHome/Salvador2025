@@ -30,11 +30,11 @@ Team rankings and total scores
 
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        2035 |
-| FBOT@Home       |         403 |
-| LASR            |         357 |
-| RoBorregos      |         333 |
-| FAMBOT          |         298 |
+| Tidyboy-OPL     |        2600 |
+| FAMBOT          |         793 |
+| FBOT@Home       |         468 |
+| LASR            |         422 |
+| RoBorregos      |         398 |
 | Tinker          |         200 |
 | PyLoT Robotics  |         184 |
 | NimbRo@Home     |          41 |
@@ -50,9 +50,9 @@ Individual Task scores can be found [here](scores_opl.md)
 
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |         859 |
+| Hibikino-Musashi@Home |        1439 |
 | RoboCanes-VISAGE      |         795 |
-| UT Austin Villa@Home  |         610 |
+| UT Austin Villa@Home  |         690 |
 | rUNSWeep              |          40 |
 
 Individual Task scores can be found [here](scores_dspl.md)

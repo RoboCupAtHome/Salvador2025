@@ -1,10 +1,17 @@
 # Current Total Scores
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |         859 |
+| Hibikino-Musashi@Home |        1439 |
 | RoboCanes-VISAGE      |         795 |
-| UT Austin Villa@Home  |         610 |
+| UT Austin Villa@Home  |         690 |
 | rUNSWeep              |          40 |
+
+# GPSR
+|         Team          | Score |
+| --------------------- | ----: |
+| Hibikino-Musashi@Home |   580 |
+| UT Austin Villa@Home  |    80 |
+| RoboCanes-VISAGE      |     0 |
 
 # Storing Groceries
 |         Team          | Score |
