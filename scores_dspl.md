@@ -1,6 +1,22 @@
 # Current Total Scores
 |         Team          | Total Score |
 | --------------------- | ----------: |
+| Hibikino-Musashi@Home |        2019 |
+| RoboCanes-VISAGE      |        1010 |
+| UT Austin Villa@Home  |         805 |
+| rUNSWeep              |         155 |
+
+# Clean the Table
+|         Team          | Score |
+| --------------------- | ----: |
+| UT Austin Villa@Home  |    15 |
+| Hibikino-Musashi@Home |    15 |
+| RoboCanes-VISAGE      |    15 |
+| rUNSWeep              |    15 |
+
+# Total Score After Stage 1
+|         Team          | Total Score |
+| --------------------- | ----------: |
 | Hibikino-Musashi@Home |        2004 |
 | RoboCanes-VISAGE      |         995 |
 | UT Austin Villa@Home  |         790 |

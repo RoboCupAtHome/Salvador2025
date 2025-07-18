@@ -1,6 +1,33 @@
 # Current Total Scores
 |      Team       | Total Score |
 | --------------- | ----------: |
+| Tidyboy-OPL     |        3675 |
+| LASR            |         887 |
+| FAMBOT          |         858 |
+| NimbRo@Home     |         816 |
+| PyLoT Robotics  |         734 |
+| FBOT@Home       |         483 |
+| RoBorregos      |         463 |
+| Tinker          |         200 |
+| RoboFEI@Home    |          35 |
+| UTBots          |          32 |
+| Andesrobot Team |          29 |
+| BahiaRT         |          28 |
+| PMEC@HOME       |          26 |
+
+# Clean the Table
+|    Team     | Score |
+| ----------- | ----: |
+| Tidyboy-OPL |   775 |
+| NimbRo@Home |   165 |
+| FAMBOT      |    15 |
+| RoBorregos  |    15 |
+| FBOT@Home   |    15 |
+| Tinker      |     0 |
+
+# Total Score After Stage 1
+|      Team       | Total Score |
+| --------------- | ----------: |
 | Tidyboy-OPL     |        2900 |
 | LASR            |         887 |
 | FAMBOT          |         843 |

@@ -32,13 +32,13 @@ The 8 best Teams will qualify for stage 2.
 
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        2900 |
+| Tidyboy-OPL     |        3675 |
 | LASR            |         887 |
-| FAMBOT          |         843 |
+| FAMBOT          |         858 |
+| NimbRo@Home     |         816 |
 | PyLoT Robotics  |         734 |
-| NimbRo@Home     |         651 |
-| FBOT@Home       |         468 |
-| RoBorregos      |         448 |
+| FBOT@Home       |         483 |
+| RoBorregos      |         463 |
 | Tinker          |         200 |
 | RoboFEI@Home    |          35 |
 | UTBots          |          32 |
@@ -54,10 +54,10 @@ All Teams qualify for stage 2.
 
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |        2004 |
-| RoboCanes-VISAGE      |         995 |
-| UT Austin Villa@Home  |         790 |
-| rUNSWeep              |         140 |
+| Hibikino-Musashi@Home |        2019 |
+| RoboCanes-VISAGE      |        1010 |
+| UT Austin Villa@Home  |         805 |
+| rUNSWeep              |         155 |
 
 Individual Task scores can be found [here](scores_dspl.md)
 
@@ -68,15 +68,15 @@ Individual Task scores can be found [here](scores_dspl.md)
 |09:00| | Mapping   |  | GPSR  | Restaurant | |
 |10:00| | Mapping  |  | GPSR | Restaurant | |
 |11:00| | Mapping  |  | GPSR | Restaurant | |
-|12:00| | |  | | Restaurant | Finals |
-|13:00| | | Receptionist | Help me Carry | | Finals |
+|12:00| | |  | |  | Finals |
+|13:00| | | Receptionist | Help me Carry | Give Me a Hand | Finals |
 |14:00| | | Receptionist  | Help me Carry  | Give Me a Hand | |
-|15:00| Team Leader Meeting | | Receptionist  | Help me Carry | Give Me a Hand |  |
+|15:00| Team Leader Meeting | | Receptionist  | Help me Carry |  |  |
 |16:00| | Opening Ceremony | |  | | Major Award Ceremony |
 |17:00| Mapping | Poster / Robot Inspection | Storing Groceries | Clean the Table | EGPSR  | |
 |18:00| Mapping | | Storing Groceries | Clean the Table | EGPSR | Major Party |
-|19:00| Mapping | Team-Leader Meeting | Storing Groceries | Clean the Table | EGPSR | Major Party |
-|20:00| | Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | Major Party |
+|19:00| Mapping | Team-Leader Meeting | Storing Groceries | Team-Leader Meetin | EGPSR | Major Party |
+|20:00| | Reception (bring your own stuff) | Team-Leader Meeting |  | | Major Party |
 
 Team Leader Meetings inside OPL Arena. Bring your own chair.
 
