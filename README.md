@@ -28,16 +28,18 @@ Team rankings and total scores
 
 ### OPL
 
+The 8 best Teams will qualify for stage 2.
+
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        2600 |
-| FAMBOT          |         793 |
+| Tidyboy-OPL     |        2900 |
+| LASR            |         887 |
+| FAMBOT          |         843 |
+| PyLoT Robotics  |         734 |
+| NimbRo@Home     |         651 |
 | FBOT@Home       |         468 |
-| LASR            |         422 |
-| RoBorregos      |         398 |
+| RoBorregos      |         448 |
 | Tinker          |         200 |
-| PyLoT Robotics  |         184 |
-| NimbRo@Home     |          41 |
 | RoboFEI@Home    |          35 |
 | UTBots          |          32 |
 | Andesrobot Team |          29 |
@@ -48,12 +50,14 @@ Individual Task scores can be found [here](scores_opl.md)
 
 ### DSPL
 
+All Teams qualify for stage 2.
+
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |        1439 |
-| RoboCanes-VISAGE      |         795 |
-| UT Austin Villa@Home  |         690 |
-| rUNSWeep              |          40 |
+| Hibikino-Musashi@Home |        2004 |
+| RoboCanes-VISAGE      |         995 |
+| UT Austin Villa@Home  |         790 |
+| rUNSWeep              |         140 |
 
 Individual Task scores can be found [here](scores_dspl.md)
 
@@ -75,6 +79,17 @@ Individual Task scores can be found [here](scores_dspl.md)
 |20:00| | Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | Major Party |
 
 Team Leader Meetings inside OPL Arena. Bring your own chair.
+
+### Clean the Table (OPL Arena)
+
+### Clean the Table (DSPL Arena)
+
+| Thu July 17 17:00 | Team Name                      | League |
+|-------------------|--------------------------------|--------|
+| 1                 | UT Austin Villa@Home           | DSPL   |
+| 2                 | Hibikino-Musashi@Home          | DSPL   |
+| 3                 | RoboCanes-VISAGE + PUMAS TID   | DSPL   |
+| 4                 | rUNSWeep                       | DSPL   |
 
 ### GPSR (OPL Arena)
 

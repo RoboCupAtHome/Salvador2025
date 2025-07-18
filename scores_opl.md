@@ -1,19 +1,32 @@
 # Current Total Scores
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        2600 |
-| FAMBOT          |         793 |
+| Tidyboy-OPL     |        2900 |
+| LASR            |         887 |
+| FAMBOT          |         843 |
+| PyLoT Robotics  |         734 |
+| NimbRo@Home     |         651 |
 | FBOT@Home       |         468 |
-| LASR            |         422 |
-| RoBorregos      |         398 |
+| RoBorregos      |         448 |
 | Tinker          |         200 |
-| PyLoT Robotics  |         184 |
-| NimbRo@Home     |          41 |
 | RoboFEI@Home    |          35 |
 | UTBots          |          32 |
 | Andesrobot Team |          29 |
 | BahiaRT         |          28 |
 | PMEC@HOME       |          26 |
+
+# Help me Carry
+|      Team      | Score |
+| -------------- | ----: |
+| PyLoT Robotics |   550 |
+| LASR           |   465 |
+| Tidyboy-OPL    |   300 |
+| FAMBOT         |    50 |
+| RoBorregos     |    50 |
+| RoboFEI@Home   |     0 |
+| PMEC@HOME      |     0 |
+| FBOT@Home      |     0 |
+| Tinker         |     0 |
 
 # GPSR
 |     Team     | Score |
@@ -30,6 +43,7 @@
 |     Team     | Score |
 | ------------ | ----: |
 | Tidyboy-OPL  |  1240 |
+| NimbRo@Home  |   290 |
 | FAMBOT       |   155 |
 | LASR         |   120 |
 | FBOT@Home    |    60 |
@@ -42,6 +56,7 @@
 |      Team      | Score |
 | -------------- | ----: |
 | Tidyboy-OPL    |   760 |
+| NimbRo@Home    |   320 |
 | FBOT@Home      |   310 |
 | RoBorregos     |   285 |
 | LASR           |   200 |
@@ -51,7 +66,6 @@
 | PMEC@HOME      |     0 |
 | RoboFEI@Home   |     0 |
 | UTBots         |     0 |
-| NimbRo@Home    |     0 |
 
 # Poster Session
 |      Team       | Score |

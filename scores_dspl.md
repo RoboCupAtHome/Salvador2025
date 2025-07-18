@@ -1,10 +1,18 @@
 # Current Total Scores
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |        1439 |
-| RoboCanes-VISAGE      |         795 |
-| UT Austin Villa@Home  |         690 |
-| rUNSWeep              |          40 |
+| Hibikino-Musashi@Home |        2004 |
+| RoboCanes-VISAGE      |         995 |
+| UT Austin Villa@Home  |         790 |
+| rUNSWeep              |         140 |
+
+# Help me Carry
+|         Team          | Score |
+| --------------------- | ----: |
+| Hibikino-Musashi@Home |   565 |
+| RoboCanes-VISAGE      |   200 |
+| UT Austin Villa@Home  |   100 |
+| rUNSWeep              |   100 |
 
 # GPSR
 |         Team          | Score |

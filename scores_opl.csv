@@ -22,7 +22,7 @@ Stage,Task,Team,Score
 1,Receptionist,FBOT@Home,310
 1,Receptionist,UTBots,0
 1,Receptionist,Tinker,170
-1,Receptionist,NimbRo@Home,0
+1,Receptionist,NimbRo@Home,320
 1,Storing Groceries,FAMBOT,155
 1,Storing Groceries,LASR,120
 1,Storing Groceries,PMEC@HOME,0
@@ -31,6 +31,7 @@ Stage,Task,Team,Score
 1,Storing Groceries,Tidyboy-OPL,1240
 1,Storing Groceries,FBOT@Home,60
 1,Storing Groceries,Tinker,0
+1,Storing Groceries,NimbRo@Home,290
 1,GPSR,FAMBOT,495
 1,GPSR,LASR,65
 1,GPSR,RoboFEI@Home,0
@@ -38,3 +39,12 @@ Stage,Task,Team,Score
 1,GPSR,Tidyboy-OPL,565
 1,GPSR,FBOT@Home,65
 1,GPSR,Tinker,0
+1,Help me Carry,FAMBOT,50
+1,Help me Carry,LASR,465
+1,Help me Carry,PMEC@HOME,0
+1,Help me Carry,PyLoT Robotics,550
+1,Help me Carry,RoboFEI@Home,0
+1,Help me Carry,RoBorregos,50
+1,Help me Carry,Tidyboy-OPL,300
+1,Help me Carry,FBOT@Home,0
+1,Help me Carry,Tinker,0
