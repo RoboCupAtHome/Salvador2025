@@ -9,10 +9,10 @@
 | 6 | dishwasher (p) | cleaning supplies |
 | 7 | sink (p) |  |
 | 8 | microwave |
-| 9 | waste basket (p) |  
+| 9 | waste basket |
 | 10 | shelf (p) |  |
 | 11 | refrigerator (p) |
-| 12 | trash bin (p) | 
+| 12 | trash bin |
 | 13 | desk (p) | fruits |
 | 14 | bar (p) | drinks |
 | 15 | tv stand (p) |
