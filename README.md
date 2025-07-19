@@ -33,10 +33,10 @@ The 8 best Teams will qualify for stage 2.
 |      Team       | Total Score |
 | --------------- | ----------: |
 | Tidyboy-OPL     |        3675 |
-| LASR            |         887 |
-| FAMBOT          |         858 |
-| NimbRo@Home     |         816 |
-| PyLoT Robotics  |         734 |
+| FAMBOT          |        1898 |
+| NimbRo@Home     |        1616 |
+| LASR            |        1187 |
+| PyLoT Robotics  |         834 |
 | FBOT@Home       |         483 |
 | RoBorregos      |         463 |
 | Tinker          |         200 |
@@ -54,8 +54,8 @@ All Teams qualify for stage 2.
 
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |        2019 |
-| RoboCanes-VISAGE      |        1010 |
+| Hibikino-Musashi@Home |        2619 |
+| RoboCanes-VISAGE      |        1110 |
 | UT Austin Villa@Home  |         805 |
 | rUNSWeep              |         155 |
 

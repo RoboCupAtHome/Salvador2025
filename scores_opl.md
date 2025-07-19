@@ -2,10 +2,10 @@
 |      Team       | Total Score |
 | --------------- | ----------: |
 | Tidyboy-OPL     |        3675 |
-| LASR            |         887 |
-| FAMBOT          |         858 |
-| NimbRo@Home     |         816 |
-| PyLoT Robotics  |         734 |
+| FAMBOT          |        1898 |
+| NimbRo@Home     |        1616 |
+| LASR            |        1187 |
+| PyLoT Robotics  |         834 |
 | FBOT@Home       |         483 |
 | RoBorregos      |         463 |
 | Tinker          |         200 |
@@ -14,6 +14,17 @@
 | Andesrobot Team |          29 |
 | BahiaRT         |          28 |
 | PMEC@HOME       |          26 |
+
+# Restaurant
+|      Team      | Score |
+| -------------- | ----: |
+| FAMBOT         |  1040 |
+| NimbRo@Home    |   800 |
+| LASR           |   300 |
+| PyLoT Robotics |   100 |
+| RoBorregos     |     0 |
+| Tidyboy-OPL    |     0 |
+| FBOT@Home      |     0 |
 
 # Clean the Table
 |    Team     | Score |
