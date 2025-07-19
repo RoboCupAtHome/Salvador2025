@@ -1,9 +1,9 @@
 # Current Total Scores
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        3675 |
-| FAMBOT          |        1898 |
-| NimbRo@Home     |        1616 |
+| Tidyboy-OPL     |        4200 |
+| FAMBOT          |        1973 |
+| NimbRo@Home     |        1666 |
 | LASR            |        1187 |
 | PyLoT Robotics  |         834 |
 | FBOT@Home       |         483 |
@@ -14,6 +14,15 @@
 | Andesrobot Team |          29 |
 | BahiaRT         |          28 |
 | PMEC@HOME       |          26 |
+
+# Give me a Hand
+|    Team     | Score |
+| ----------- | ----: |
+| Tidyboy-OPL |   525 |
+| FAMBOT      |    75 |
+| NimbRo@Home |    50 |
+| LASR        |     0 |
+| FBOT@Home   |     0 |
 
 # Restaurant
 |      Team      | Score |
