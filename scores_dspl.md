@@ -1,10 +1,18 @@
 # Current Total Scores
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |        2769 |
-| RoboCanes-VISAGE      |        1110 |
-| UT Austin Villa@Home  |         805 |
-| rUNSWeep              |         255 |
+| Hibikino-Musashi@Home |        3019 |
+| UT Austin Villa@Home  |        1995 |
+| RoboCanes-VISAGE      |        1960 |
+| rUNSWeep              |         355 |
+
+# EGPSR
+|         Team          | Score |
+| --------------------- | ----: |
+| UT Austin Villa@Home  |  1190 |
+| RoboCanes-VISAGE      |   850 |
+| Hibikino-Musashi@Home |   250 |
+| rUNSWeep              |   100 |
 
 # Give me a Hand
 |         Team          | Score |

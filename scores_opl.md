@@ -1,19 +1,30 @@
 # Current Total Scores
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        4200 |
-| FAMBOT          |        1973 |
-| NimbRo@Home     |        1666 |
-| LASR            |        1187 |
+| Tidyboy-OPL     |        6065 |
+| NimbRo@Home     |        2396 |
+| FAMBOT          |        2123 |
+| LASR            |        1437 |
 | PyLoT Robotics  |         834 |
+| RoBorregos      |         813 |
 | FBOT@Home       |         483 |
-| RoBorregos      |         463 |
 | Tinker          |         200 |
 | RoboFEI@Home    |          35 |
 | UTBots          |          32 |
 | Andesrobot Team |          29 |
 | BahiaRT         |          28 |
 | PMEC@HOME       |          26 |
+
+# EGPSR
+|    Team     | Score |
+| ----------- | ----: |
+| Tidyboy-OPL |  1865 |
+| NimbRo@Home |   730 |
+| RoBorregos  |   350 |
+| LASR        |   250 |
+| FAMBOT      |   150 |
+| Tinker      |     0 |
+| FBOT@Home   |     0 |
 
 # Give me a Hand
 |    Team     | Score |

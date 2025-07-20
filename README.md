@@ -26,19 +26,22 @@
 
 Team rankings and total scores
 
+recognize and Close custom door: 200 pts
+open apartment door outside: 300 pts
+
 ### OPL
 
 The 8 best Teams will qualify for stage 2.
 
 |      Team       | Total Score |
 | --------------- | ----------: |
-| Tidyboy-OPL     |        4200 |
-| FAMBOT          |        1973 |
-| NimbRo@Home     |        1666 |
-| LASR            |        1187 |
+| Tidyboy-OPL     |        6065 |
+| NimbRo@Home     |        2396 |
+| FAMBOT          |        2123 |
+| LASR            |        1437 |
 | PyLoT Robotics  |         834 |
+| RoBorregos      |         813 |
 | FBOT@Home       |         483 |
-| RoBorregos      |         463 |
 | Tinker          |         200 |
 | RoboFEI@Home    |          35 |
 | UTBots          |          32 |
@@ -54,10 +57,10 @@ All Teams qualify for stage 2.
 
 |         Team          | Total Score |
 | --------------------- | ----------: |
-| Hibikino-Musashi@Home |        2769 |
-| RoboCanes-VISAGE      |        1110 |
-| UT Austin Villa@Home  |         805 |
-| rUNSWeep              |         255 |
+| Hibikino-Musashi@Home |        3019 |
+| UT Austin Villa@Home  |        1995 |
+| RoboCanes-VISAGE      |        1960 |
+| rUNSWeep              |         355 |
 
 Individual Task scores can be found [here](scores_dspl.md)
 
