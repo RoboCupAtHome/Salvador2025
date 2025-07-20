@@ -1,4 +1,10 @@
-# Current Total Scores
+# Final
+|    Team     | Score |
+| ----------- | ----: |
+| Tidyboy-OPL |  1650 |
+| NimbRo@Home |  1300 |
+
+# Total Score After Stage 1+2
 |      Team       | Total Score |
 | --------------- | ----------: |
 | Tidyboy-OPL     |        6065 |

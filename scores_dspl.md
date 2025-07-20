@@ -1,4 +1,11 @@
-# Current Total Scores
+# Final
+|         Team          | Score |
+| --------------------- | ----: |
+| Hibikino-Musashi@Home |  1100 |
+| UT Austin Villa@Home  |   150 |
+| RoboCanes-VISAGE      |   150 |
+
+# Total Score After Stage 1+2
 |         Team          | Total Score |
 | --------------------- | ----------: |
 | Hibikino-Musashi@Home |        3019 |

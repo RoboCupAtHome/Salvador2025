@@ -29,6 +29,23 @@ Team rankings and total scores
 recognize and Close custom door: 200 pts
 open apartment door outside: 300 pts
 
+### Finals
+
+#### OPL
+
+| Team        | Stages | Stage Normalized Score | Finals | Normalized Score |
+|-------------|-------:|------------------------|--------|------------------|
+| Tidyboy-OPL |   6065 | 0.5                    | 1650   | 1                |
+| NimbRo@Home |   2396 | 0.198                  | 1300   | 0.591            |
+
+#### DSPL
+
+| Team                  | Stages | Stage Normalized Score | Finals | Normalized Score |
+|-----------------------|-------:|------------------------|--------|------------------|
+| Hibikino-Musashi@Home |   3019 | 0.5                    | 1100   | 1                |
+| UT Austin Villa@Home  |   1995 | 0.330                  | 150    | 0.399            |
+| RoboCanes-VISAGE      |   1960 | 0.325                  | 150    | 0.393            |
+
 ### OPL
 
 The 8 best Teams will qualify for stage 2.
